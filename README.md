@@ -1,4 +1,4 @@
-# Task 05 â€” Deep Learning / NLP Text Classifier
+# Task 05  Deep Learning / NLP Text Classifier
 
 ## Project
 Movie Review Sentiment Classification using TensorFlow/Keras.
